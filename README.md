@@ -1,2 +1,2 @@
-# aayushj1.github.io
+# aayushkumarjvs.github.io
 personal website
