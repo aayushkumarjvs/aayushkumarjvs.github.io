@@ -1,2 +1,2 @@
 # aayushkumarjvs.github.io
-personal website
+portfolio for business purporses
