@@ -3937,3 +3937,12 @@ input, select, textarea {
 			}
 
 		}
+.icons li a i.ai {
+    font-size: 1.6rem;
+    vertical-align: middle;
+    color: inherit;
+}
+
+.icons li a:hover i.ai {
+    color: #49bf9d;
+}
