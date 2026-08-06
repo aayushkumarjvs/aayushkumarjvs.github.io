@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 100%;          
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -3945,4 +3945,20 @@ input, select, textarea {
 
 .icons li a:hover i.ai {
     color: #49bf9d;
+}
+/* Perfect SVG alignment for Stellar */
+
+.icon.alt {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 2.6em;
+    height: 2.6em;
+    border-radius: 50%;
+}
+
+.icon.alt svg {
+    width: 1.15em;
+    height: 1.15em;
+    fill: currentColor;
 }
